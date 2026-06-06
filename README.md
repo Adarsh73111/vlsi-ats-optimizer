@@ -4,6 +4,13 @@ An AI-powered Applicant Tracking System (ATS) analyzer and resume optimizer buil
 
 Unlike generic ATS parsers tailored for software engineering, this tool uses advanced LLMs to evaluate deep-tech competencies—such as hardware description languages (Verilog, SystemVerilog), verification methodologies (UVM), and EDA tools (Vivado, Cadence).
 
+## 📸 Screenshots
+
+| Candidate Profile Upload | Deep-Tech Analysis Results |
+| :---: | :---: |
+| <img src="screenshots/ui-dashboard.png" width="400"/> | <img src="screenshots/analysis-results.png" width="400"/> |
+| *Clean, Streamlit-powered UI for PDF parsing and JD evaluation.* | *STAR-method bullet optimization and missing framework detection.* |
+
 ## ✨ Key Features
 * **Domain-Specific Parsing:** Accurately extracts and evaluates complex hardware terminology and architectural metrics.
 * **Dynamic Scoring Strictness:** Adjustable ATS rigorously penalizes missing frameworks based on the target role level (Intern, Mid-Level, Senior).
