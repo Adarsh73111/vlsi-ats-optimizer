@@ -8,7 +8,7 @@ Unlike generic ATS parsers tailored for software engineering, this tool uses adv
 
 | Candidate Profile Upload | Deep-Tech Analysis Results |
 | :---: | :---: |
-| <img src="https://github.com/Adarsh73111/vlsi-ats-optimizer/blob/main/screenshots/Screenshot%202026-06-07%20002022.png" width="400"/> | <img src="screenshots/analysis-results.png" width="400"/> |
+| <img src="https://github.com/Adarsh73111/vlsi-ats-optimizer/blob/main/screenshots/Screenshot%202026-06-07%20002022.png" width="400"/> | <img src="https://github.com/Adarsh73111/vlsi-ats-optimizer/blob/main/screenshots/Screenshot%202026-06-07%20002328.png" width="400"/> |
 | *Clean, Streamlit-powered UI for PDF parsing and JD evaluation.* | *STAR-method bullet optimization and missing framework detection.* |
 
 ## ✨ Key Features
