@@ -29,3 +29,9 @@ Unlike generic ATS parsers tailored for software engineering, this tool uses adv
    ```bash
    git clone [https://github.com/Adarsh73111/vlsi-ats-optimizer.git](https://github.com/Adarsh73111/vlsi-ats-optimizer.git)
    cd vlsi-ats-optimizer
+
+2. pip install -r requirements.txt
+
+3. export GROQ_API_KEY="your_api_key_here"
+
+4. python3 -m streamlit run app.py
